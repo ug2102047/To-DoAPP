@@ -3,7 +3,7 @@ const addBtn = document.getElementById("add-btn");
 const list = document.getElementById("list");
 
 function addTask() {
-    if (inputBox.value.trim() === "") {
+    if (inputBox.value.trim() === "") { 
         alert("Please enter a task.");
         return;
     }
