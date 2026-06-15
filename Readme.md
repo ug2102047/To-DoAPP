@@ -2,7 +2,7 @@
 
 A simple client-side To-Do List web app built with HTML, CSS and JavaScript.
 
-## Features
+## Features 
 
 - Add, remove, and mark tasks as completed
 - Persistent data in browser (localStorage)
